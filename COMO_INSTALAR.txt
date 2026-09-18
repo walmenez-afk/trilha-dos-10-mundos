@@ -1,0 +1,1 @@
+Publique esta pasta em HTTPS. Abra o endereço no Chrome ou Edge do Android e escolha Instalar aplicativo. Após a primeira abertura, o jogo local funciona offline.
