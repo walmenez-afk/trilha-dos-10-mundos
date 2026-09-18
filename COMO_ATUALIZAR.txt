@@ -1,0 +1,9 @@
+NOVA VERSÃO COMPLETA PARA CELULAR
+
+1. Faça backup no jogo antigo, se houver.
+2. Extraia este ZIP.
+3. No GitHub, substitua index.html, manifest.webmanifest, sw.js e toda a pasta icons.
+4. Confirme com Commit changes e aguarde o GitHub Pages publicar.
+5. Remova o aplicativo antigo do celular, limpe os dados do site no Chrome e instale novamente.
+
+Inclui: individual, equipe cooperativa, 2 a 5 equipes, até 5 integrantes por equipe, adição, tabuada, misto, tempo opcional/adaptativo, bônus relâmpago, placar por modo, medalhas, recompensas, música, sons, animações, tutorial, backup e modo offline.

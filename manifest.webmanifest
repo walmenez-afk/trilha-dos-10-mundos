@@ -1,11 +1,13 @@
 {
-  "name": "Trilha dos 10 Mundos: Tabuleiro",
-  "short_name": "Trilha 10 Mundos",
+  "name": "Trilha dos 10 Mundos Completa",
+  "short_name": "Trilha Matemática",
+  "description": "Jogo de tabuleiro de adição e multiplicação para jogar sozinho, em família ou em equipes",
+  "lang": "pt-BR",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#eaffec",
+  "background_color": "#eaffef",
   "theme_color": "#291561",
   "prefer_related_applications": false,
   "icons": [
